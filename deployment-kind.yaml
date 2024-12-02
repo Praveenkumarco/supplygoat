@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: health-check
-        image: madhuakula/k8s-goat-health-check
+        image: madhuakula/k8s-goat-health-chec
         resources:
           limits:
             memory: "100Mi"
